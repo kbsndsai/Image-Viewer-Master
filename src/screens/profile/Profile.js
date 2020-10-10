@@ -85,7 +85,7 @@ class Profile extends Component {
             favoriteIconlikes: 1,
             mediaData: [],
             instaUsername: "",
-            fullname: "Siva Naga",
+            fullname: "Bala Siva",
             viewPostmodalIsOpen: false,
             editPostmodalIsOpen: false,
             viewPostModalData: [],
@@ -118,7 +118,7 @@ class Profile extends Component {
 
     addCommentOnClickHandler = (e) => {
         this.setState({ addedComment: this.state.imagecomment });
-        this.setState({ username: "upgraddemo: " });
+        this.setState({ username: "keileouch7: " });
 
     }
 
