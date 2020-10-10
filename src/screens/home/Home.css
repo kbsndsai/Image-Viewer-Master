@@ -1,0 +1,36 @@
+.cardStyle {
+    width: 400px;
+    
+    padding: 32px 64px 32px 64px;
+    margin: auto;
+    text-align: left;
+    height: 500px;
+   
+}
+
+.textboxStyle{
+    padding: 32px; 
+    width: 30px;
+}
+
+.buttonStyle{
+    margin-left: 25px;
+}
+
+.dispComment {
+    display:block;
+  }
+
+.commentField{
+      padding-right: 105px;
+  }
+
+.favIcon {
+    color: red;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 1.5em;
+}
+
+.hashtag{
+    color:rgb(3, 115, 143);
+}

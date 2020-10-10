@@ -1,0 +1,21 @@
+.dispNone {
+    display: none;
+}
+
+.dispBlock {
+    display: block;
+}
+
+.red {
+    color: red;
+} 
+
+.textField{
+     padding-right: 35px; 
+      text-align:center;
+}
+
+.cardStyle{
+    text-align: center;
+    }
+

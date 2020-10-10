@@ -1,0 +1,76 @@
+.app-header {
+    background-color: #263238;
+    height: 50px;
+    padding: 8px 32px 20px 16px;
+    color: #fff;
+    font-size: 18px;
+    
+    }
+
+
+  .avatar {
+      margin-left: auto;
+  }
+
+  .logoText{
+    vertical-align:middle;
+    padding-top: 15px;
+    }
+    
+.searchBarStyle{
+   float:right;
+    color: #fff;
+    width: 300px;
+    margin-right: 20px;
+    background-color: #c0c0c0;
+    border-radius: 4px;
+    vertical-align: middle;
+    position: relative;
+    margin-top: -32px;
+    
+    
+}
+
+.svg-icon {
+    width: 1em;
+    height: 1em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: #4691f6;
+  }
+  
+  .svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+  }
+
+  .profileIcon{
+    float:right;
+    margin-top: -35px;
+  
+  }
+
+.searchField{
+ background-color: #c0c0c0;
+ vertical-align: middle;
+ padding: 8px 10px 9px 47px;
+ 
+
+}
+
+.searchIcon{
+  background-color: #c0c0c0;
+  padding: 5px 10px 20px 10px;
+  border-color: black;
+  vertical-align: middle;
+ 
+}
+
+.menuItem{
+  color:black;
+  margin-bottom: -100px;
+}
+
