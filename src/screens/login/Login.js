@@ -32,7 +32,7 @@ class Login extends Component {
         const username = "User";
         const password = "Pwd";
         /* access token obtained from instagram for making API calls */
-        const accessToken = 'IGQVJXYkdUR1RRRnRNWE1HMDRubVEtMEhJd3BQNG5jeVlncVZABX3hoNC1ZAdG9RRVdWcUw4VjhaXzloNi0zLXNkc0RZAa0ZAIa1FETndrbkQyb0ZAaNE5wYlVFZAmh3TFRHNFU2cTR4RGMzZATFLNFpCMWcyQTU0VjZAaZA1N3RmtJ';
+        const accessToken = 'IGQVJVbGprbXBiOXUxR0VTV3pPRTRSNzZAfUzE4em5zX0VlMmJzX2hVdmtwaVpxT0dzOGdyNVJkbVYteWM0MjlDTG95YWsyazhIQnJGc09qMGtsODRxdXJhNWtUUk9kTzhKdUxDRGppRWdvdkpGNjE4RVctN3NKeDBCUmk4';
 
         /* Check whether mandatory fields are filled*/
         this.state.username === "" ? this.setState({ usernameRequired: "dispBlock" }) : this.setState({ usernameRequired: "dispNone" });
